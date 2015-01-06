@@ -1,0 +1,103 @@
+package weekly.week13;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+
+/**
+ * <b>Sherlock and Anagrams</b>
+ * <p>
+ * Given a string <tt>S</tt>, find the number of <em>unordered anagramic</em>
+ * pairs of substrings.
+ * </p>
+ * <p>
+ * Input Format <br>
+ * First line contains <tt>T</tt>, the number of testcases. Each testcase
+ * consists of string <tt>S</tt> in one line.
+ * </p>
+ * <p>
+ * Constraints<br>
+ * 1<=T<=10<br>
+ * 2<=length(S)<=100<br>
+ * String <tt>S</tt> contains only the lowercase letters of the English
+ * alphabet.
+ * </p>
+ * <p>
+ * Output Format <br>
+ * For each testcase, print the required answer in one line.
+ * </p>
+ * <p>
+ * Sample Input <br>
+ * 2<br>
+ * abba<br>
+ * abcd
+ * </p>
+ * <p>
+ * Sample Output 4<br>
+ * 0
+ * </p>
+ * <p>
+ * Explanation <br>
+ * Let's say <tt>S[i,j]</tt> denotes the substring
+ * <tt>S<sub>i</sub>,S<sub>i+1</sub>,...,S<sub>j</sub></tt>. <br>
+ * testcase 1: For S=abba, anagramic pairs are: {S[1,1],S[4,4]},
+ * {S[1,2],S[3,4]}, {S[2,2],S[3,3]} and {S[1,3],S[2,4]}. <br>
+ * testcase 2: No anagramic pairs.
+ * 
+ * @author Pidanic
+ *
+ */
+public class SherlockAndAnagrams
+{
+    public static void main(String[] args)
+    {
+        Scanner stdin = new Scanner(System.in);
+        int tests = Integer.parseInt(stdin.nextLine());
+        for (int i = 0; i < tests; i++)
+        {
+            String string = stdin.nextLine();
+            int stringLength = string.length();
+            long resultPairs = 0;
+            for (int length = 1; length <= stringLength; length++)
+            {
+                for (int start1 = 0; start1 < stringLength; start1++)
+                {
+                    for (int start2 = start1 + 1; start2 < stringLength; start2++)
+                    {
+                        int end1 = start1 + length;
+                        int end2 = start2 + length;
+                        if(end1 <= stringLength && end2 <= stringLength)
+                        {
+                            String substring1 = string.substring(start1, end1);
+                            String subString2 = string.substring(start2, end2);
+                            if(toCharacterCount(substring1).equals(
+                                    toCharacterCount(subString2)))
+                            {
+                                resultPairs++;
+                            }
+                        }
+                    }
+                }
+            }
+            System.out.println(resultPairs);
+        }
+        stdin.close();
+    }
+
+    private static Map<Character, Integer> toCharacterCount(String word)
+    {
+        Map<Character, Integer> result = new HashMap<>();
+        for (char c : word.toCharArray())
+        {
+            if(result.containsKey(c))
+            {
+                result.put(c, result.get(c) + 1);
+            }
+            else
+            {
+                result.put(c, 1);
+            }
+        }
+        return result;
+    }
+}
