@@ -1,4 +1,4 @@
-package algorithms.warmup;
+package algorithms.implementation;
 
 import java.util.Scanner;
 

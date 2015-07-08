@@ -1,4 +1,4 @@
-package algorithms.search;
+package algorithms.sorting;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -52,7 +52,7 @@ import java.util.Scanner;
  * @author Pidanic
  *
  */
-public class ClosestNumber
+public class ClosestNumbers
 {
 	public static void main(String[] args)
 	{

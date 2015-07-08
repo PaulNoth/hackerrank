@@ -1,4 +1,4 @@
-package miscellaneous.regex;
+package algorithms.regex;
 
 import java.util.Scanner;
 

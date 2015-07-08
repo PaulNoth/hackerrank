@@ -1,4 +1,4 @@
-package algorithms.discretemath;
+package mathematics.combinatorics;
 
 import java.util.ArrayList;
 import java.util.Collections;
