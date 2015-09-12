@@ -1,4 +1,3 @@
-var sum = 0;
 function processData(input) {
     var lines = input.split("\n");
     var actualDate = lines[0].split(" ");
