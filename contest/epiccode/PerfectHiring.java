@@ -1,5 +1,3 @@
-package epicode;
-
 public class PerfectHiring 
 {
 	public static void main(String[] args) 

@@ -1,52 +1,7 @@
-package weekly.week13;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- * <b>Sherlock and Anagrams</b>
- * <p>
- * Given a string <tt>S</tt>, find the number of <em>unordered anagramic</em>
- * pairs of substrings.
- * </p>
- * <p>
- * Input Format <br>
- * First line contains <tt>T</tt>, the number of testcases. Each testcase
- * consists of string <tt>S</tt> in one line.
- * </p>
- * <p>
- * Constraints<br>
- * 1<=T<=10<br>
- * 2<=length(S)<=100<br>
- * String <tt>S</tt> contains only the lowercase letters of the English
- * alphabet.
- * </p>
- * <p>
- * Output Format <br>
- * For each testcase, print the required answer in one line.
- * </p>
- * <p>
- * Sample Input <br>
- * 2<br>
- * abba<br>
- * abcd
- * </p>
- * <p>
- * Sample Output 4<br>
- * 0
- * </p>
- * <p>
- * Explanation <br>
- * Let's say <tt>S[i,j]</tt> denotes the substring
- * <tt>S<sub>i</sub>,S<sub>i+1</sub>,...,S<sub>j</sub></tt>. <br>
- * testcase 1: For S=abba, anagramic pairs are: {S[1,1],S[4,4]},
- * {S[1,2],S[3,4]}, {S[2,2],S[3,3]} and {S[1,3],S[2,4]}. <br>
- * testcase 2: No anagramic pairs.
- * 
- * @author Pidanic
- *
- */
 public class SherlockAndAnagrams
 {
     public static void main(String[] args)

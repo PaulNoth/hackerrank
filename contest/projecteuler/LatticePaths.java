@@ -1,49 +1,8 @@
-package projecteuler;
-
 import java.math.BigInteger;
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-/**
- * <b>Project Euler #15: Lattice paths</b>
- * <p>
- * Starting in the top left corner of a 2×2 grid, and only being able to move to
- * the right and down, there are exactly 6 routes to the bottom right corner.
- * </p>
- * <p>
- * How many such routes are there through a N×M grid? As number of ways can be
- * very large, print it modulo 10<sup>9</sup>+7.
- * <p>
- * Input Format<br>
- * The first line contains an integer T , i.e., number of test cases. Next T
- * lines will contain integers N and M.
- * </p>
- * <p>
- * Output Format<br>
- * Print the values corresponding to each test case.
- * </p>
- * <p>
- * Constraints<br>
- * 1 <= T <= 10<sup>3</sup><br>
- * 1 <= N <= 500<br>
- * 1 <= M <= 500
- * </p>
- * <p>
- * Sample Input<br>
- * 2 <br>
- * 2 2<br>
- * 3 2
- * </p>
- * <p>
- * Sample Output<br>
- * 6<br>
- * 10
- * </p>
- * 
- * @author Pidanic
- *
- */
 public class LatticePaths
 {
     // http://www.robertdickau.com/lattices.html

@@ -1,47 +1,7 @@
-package projecteuler;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * 
- * <b>Project Euler #10: Summation of primes</b>
- * <p>
- * The sum of the primes below 10 is 2+3+5+7=17.
- * </p>
- * <p>
- * Find the sum of all the primes not greater than given N.
- * </p>
- * <p>
- * Input Format<br>
- * The first line contains an integer T i.e. number of the test cases. The next
- * T lines will contains an integer N.
- * </p>
- * <p>
- * Output Format<br>
- * Print the value corresponding to each test case in seperate line.
- * </p>
- * <p>
- * Constraints<br>
- * 1<=T<=10^4<br>
- * 1<=N<=10^6
- * </p>
- * <p>
- * Sample Input<br>
- * 2<br>
- * 5<br>
- * 10
- * </p>
- * <p>
- * Sample Output<br>
- * 10<br>
- * 17
- * </p>
- * 
- * @author Pidanic
- *
- */
 public class SummationPrimes
 {
 	public static void main(String[] args)

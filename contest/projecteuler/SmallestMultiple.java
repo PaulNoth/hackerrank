@@ -1,47 +1,7 @@
-package projecteuler;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * 
- * <b>Project Euler #5: Smallest multiple</b>
- * <p>
- * 2520 is the smallest number that can be divided by each of the numbers from 1
- * to 10 without any remainder. What is the smallest positive number that is
- * evenly divisible(divisble with no remainder) by all of the numbers from 1 to
- * N?
- * </p>
- * <p>
- * Input Format<br/>
- * First line contains T that denotes the number of test cases. This is followed
- * by T lines, each containing an integer, N.
- * </p>
- * <p>
- * Output Format<br/>
- * Print the required answer for each test case.
- * </p>
- * <p>
- * Constraints <br/>
- * 1<=T<=10<br/>
- * 1<=N<=40
- * </p>
- * <p>
- * Sample Input <br/>
- * 2 <br/>
- * 3 <br/>
- * 10
- * </p>
- * <p>
- * Sample Output <br/>
- * 6 <br/>
- * 2520
- * </p>
- * 
- * @author Pidanic
- *
- */
 public class SmallestMultiple
 {
 	// prime factorization

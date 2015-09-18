@@ -1,45 +1,7 @@
-package projecteuler;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * 
- * <b>Project Euler #7: 10001st prime</b>
- * <p>
- * By listing the first six prime numbers: 2,3,5,7,11 and 13, we can see that
- * the 6th prime is 13. What is the N'th prime number?
- * </p>
- * <p>
- * Input Format<br>
- * First line contains T that denotes the number of test cases. This is followed
- * by T lines, each containing an integer, N.
- * </p>
- * <p>
- * Output Format<br>
- * Print the required answer for each test case.
- * </p>
- * <p>
- * Constraints<br>
- * 1<=T<=10^3<br>
- * 1<=N<=10^4
- * </p>
- * <p>
- * Sample Input <br>
- * 2 <br>
- * 3 <br>
- * 6
- * </p>
- * <p>
- * Sample Output <br>
- * 5 <br>
- * 13
- * </p>
- * 
- * @author Pidanic
- *
- */
 public class Prime10001st
 {
 	public static void main(String[] args)

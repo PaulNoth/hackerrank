@@ -1,45 +1,5 @@
-package projecteuler;
-
 import java.util.Scanner;
 
-/**
- * <b>Project Euler #4: Largest palindrome product</b>
- * <p>
- * A palindromic number reads the same both ways. The smallest 6 digit
- * palindrome made from the product of two 3-digit numbers is 101101=143×707.
- * </p>
- * <p>
- * Find the largest palindrome made from the product of two 3-digit numbers
- * which is less than N.
- * </p>
- * <p>
- * Input Format<br/>
- * First line contains T that denotes the number of test cases. This is followed
- * by T lines, each containing an integer, N.
- * </p>
- * <p>
- * Output Format Print the required answer for each test case in a new line.
- * </p>
- * <p>
- * Constraints<br/>
- * 1<=T<100
- * </p>
- * 101101<N<1000000</p>
- * <p>
- * Sample Input <br/>
- * 2 <br/>
- * 101110<br/>
- * 800000
- * </p>
- * <p>
- * Sample Output<br/>
- * 101101<br/>
- * 793397<br/>
- * </p>
- * 
- * @author Pidanic
- *
- */
 public class LargestPalindromeProduct
 {
 	public static void main(String[] args)

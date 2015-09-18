@@ -1,43 +1,9 @@
-package projecteuler;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- * 
- * <b>Project Euler #17: Number to Words</b>
- * <p>
- * The numbers 1 to 5 written out in words are One, Two, Three, Four, Five
- * </p>
- * <p>
- * First character of each word will be capital letter for example: 104382426112
- * is One Hundred Four Billion Three Hundred Eighty Two Million Four Hundred
- * Twenty Six Thousand One Hundred Twelve
- * </p>
- * <p>
- * Given a number, you have to write it in words.
- * </p>
- * <p>
- * Input Format<br>
- * The first line contains an integer T , i.e., number of test cases. Next T
- * lines will contain an integer N.
- * </p>
- * <p>
- * Output Format<br>
- * Print the values corresponding to each test case.
- * </p>
- * <p>
- * Constraints<br>
- * 1<=T<=10<br>
- * 0<=N<=10^12
- * </p>
- * 
- * @author Pidanic
- *
- */
 public class NumberToWords
 {
 	private static final String ZERO = "Zero";

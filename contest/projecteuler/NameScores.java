@@ -1,5 +1,3 @@
-package projecteuler;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -7,58 +5,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- * 
- * <b>Project Euler #22: Name scores</b>
- * <p>
- * You are given around five-thousand first names, begin by sorting it into
- * alphabetical order. Then working out the alphabetical value for each name,
- * multiply this value by its alphabetical position in the list to obtain a name
- * score.
- * </p>
- * <p>
- * For example, when the list in sample is sorted into alphabetical order,
- * PAMELA, which is worth 16+1+13+5+12+1=48, is the 5th name in the list. So,
- * PAMELA would obtain a score of 5×48=240.
- * </p>
- * <p>
- * You are given Q queries, each query is a name, you have to print the score.
- * </p>
- * <p>
- * Input Format <br>
- * The first line contains an integer N , i.e., number of names. Next N lines
- * will contain a Name. Followed by integer Q followed by Q lines each having a
- * word.
- * </p>
- * <p>
- * Output Format<br>
- * Print the values corresponding to each test case.
- * </p>
- * <p>
- * Constraints<br>
- * 1<=N<=5200 <br>
- * length of each word will be less than 12<br>
- * 1<=Q<=100
- * </p>
- * <p>
- * Sample Input <br>
- * 5<br>
- * ALEX<br>
- * LUIS<br>
- * JAMES<br>
- * BRIAN<br>
- * PAMELA<br>
- * 1<br>
- * PAMELA<br>
- * </p>
- * <p>
- * Sample Output <br>
- * 240
- * </p>
- * 
- * @author Pidanic
- *
- */
 public class NameScores
 {
     private static Map<Character, Integer> alphabet;
