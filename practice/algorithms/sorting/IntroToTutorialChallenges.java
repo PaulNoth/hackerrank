@@ -1,5 +1,3 @@
-package algorithms.sorting;
-
 import java.util.Scanner;
 
 public class IntroToTutorialChallenges

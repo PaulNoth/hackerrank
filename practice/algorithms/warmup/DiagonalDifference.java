@@ -1,7 +1,4 @@
-package algorithms.warmup;
-
 import java.util.Scanner;
-
 
 public class DiagonalDifference 
 {

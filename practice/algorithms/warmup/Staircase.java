@@ -1,10 +1,4 @@
-package algorithms.warmup;
-
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Staircase 
 {

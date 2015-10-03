@@ -1,5 +1,3 @@
-package algorithms.strings;
-
 import java.util.Scanner;
 
 public class AlternatingCharacters 

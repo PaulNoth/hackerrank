@@ -1,7 +1,4 @@
-import algorithms.implementation;
-
 import java.util.Scanner;
-
 
 public class FindDigits 
 {

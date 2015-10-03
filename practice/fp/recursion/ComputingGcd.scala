@@ -1,8 +1,3 @@
-package fp.recursion
-
-/**
- * @author Pidanic
- */
 object ComputingGcd {
     
    def gcd(x: Int, y: Int): Int =

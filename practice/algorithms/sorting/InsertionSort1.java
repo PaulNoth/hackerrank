@@ -1,5 +1,3 @@
-import algorithms.sorting;
-
 import java.util.*;
 
 public class InsertionSort1 {

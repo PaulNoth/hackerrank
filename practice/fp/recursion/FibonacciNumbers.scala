@@ -1,8 +1,3 @@
-package fp.recursion
-
-/**
- * @author Pidanic
- */
 object FibonacciNumbers {
    def fibonacci(x:Int):Int = {
       if(x == 1) 0

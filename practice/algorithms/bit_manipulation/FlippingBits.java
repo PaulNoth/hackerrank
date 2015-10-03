@@ -1,7 +1,4 @@
-package algorithms.bit_manipulation;
-
 import java.util.Scanner;
-
 
 public class FlippingBits 
 {	

@@ -1,7 +1,4 @@
-import algorithms.strings;
-
 import java.util.Scanner;
-
 
 public class FunnyString 
 {

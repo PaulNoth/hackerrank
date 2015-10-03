@@ -1,4 +1,3 @@
-
 object ExtraLongFactorials extends App
 {
   def factorial(n: BigInt): BigInt =

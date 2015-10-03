@@ -1,11 +1,4 @@
-package fp.recursion
-
-/**
- * @author Pavol
- */
 object PrefixCompression extends App {
-//  val a = "puppy"
-//  val b = "puppy"
   
   val lines = io.Source.stdin.getLines.toArray
   val a = lines(0)

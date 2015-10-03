@@ -1,4 +1,4 @@
-public class Solution
+public class WelcomeToJava
 {
     public static void main(String []argv)
     {
