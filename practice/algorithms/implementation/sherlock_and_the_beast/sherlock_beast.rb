@@ -1,9 +1,3 @@
-# rozdelim cislo n na 2 casti tak, aby jedna cast bola delitelna 3 a druha 5
-# vratim pole:
-# index 0 je pocet 5 iek
-# index 1 je pocet 3 jok
-# preto su patky prve lebo to musi byt najvacsie cislo obsahujuce n cifier a ked su 5 vpredu, urcite bude najvacsie
-# inak vratim -1 a -1, ze neexistuje take rozdelenie 
 def remainders(number)
   fives = number
   threes = number - fives
