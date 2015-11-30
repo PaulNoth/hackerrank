@@ -1,5 +1,7 @@
 .idea/
 
+out/
+
 .project
 
 *.iml
