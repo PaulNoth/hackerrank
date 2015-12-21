@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AVeryBigSum {
+public class Solution {
 
     public static void main(String[] args) {
         Scanner stdin = new Scanner(System.in);
