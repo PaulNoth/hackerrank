@@ -5,8 +5,7 @@ class Point
     @x = x
     @y = y
   end
-  
-  # http://en.wikipedia.org/wiki/Point_reflection
+
   def self.symetric_point(point, midpoint)
     x = 2 * midpoint.x - point.x
     y = 2 * midpoint.y - point.y
