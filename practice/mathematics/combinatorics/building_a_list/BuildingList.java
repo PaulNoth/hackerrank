@@ -11,7 +11,7 @@ public class BuildingList
 		int testCases = Integer.parseInt(scanner.next());
 		for (int i = 0; i < testCases; i++)
 		{
-			// int length = Integer.parseInt(scanner.next());
+			int length = Integer.parseInt(scanner.next());
 			String input = scanner.next();
 			List<String> result = new ArrayList<String>();
 			combine(result, input, 0, "");
@@ -31,7 +31,6 @@ public class BuildingList
 		{
 			String out = actual;
 			actual += input.charAt(i);
-			// System.out.println(actual);
 			result.add(actual);
 			if(i < input.length())
 			{
