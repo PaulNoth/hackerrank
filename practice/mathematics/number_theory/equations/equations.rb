@@ -1,9 +1,3 @@
-# Solution:
-# http://stackoverflow.com/questions/9469898/1-x-1-y-1-nfactorial
-# https://answers.yahoo.com/question/index?qid=20091027134709AAVJlxi
-
-
-# Eratostenovo sito - najrychlejsi sposob, ako urcit prvocisla mensie ako n
 def eratosthenes(num)
   result = []
   primes = Array.new(num + 1, true)
@@ -36,7 +30,7 @@ else
       num /= prime
       exp += div
     end
-    result *= (2 * exp + 1) # equation from StackOverflow
+    result *= (2 * exp + 1)
    end
 end
 puts result % 1000007
