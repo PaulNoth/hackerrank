@@ -25,8 +25,8 @@ object PrefixCompression extends App {
     }
     if(a.charAt(index) == b.charAt(index))
     {
-      return commonPrefix(a, b, index + 1);
+      return commonPrefix(a, b, index + 1)
     }
-    return index;
+    return index
   }
 }
