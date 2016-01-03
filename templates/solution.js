@@ -1,6 +1,7 @@
 'use strict';
 
 const processData = input => {
+    let pairs = input.split('\n');
     // code goes here
 };
 
