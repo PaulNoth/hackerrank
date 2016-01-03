@@ -4,7 +4,10 @@ public class Solution {
 
     public static void main(String[] args) {
         Scanner stdin = new Scanner(System.in);
-        // code goes here
+        int tests = Integer.parseInt(stdin.nextLine());
+        for(int i = 0; i < tests; i++) {
+            // code goes here
+        }
         stdin.close();
     }
 }
