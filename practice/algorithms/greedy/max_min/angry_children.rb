@@ -7,7 +7,6 @@ end
 candy.sort! {|l,j| l <=> j}
 unfairness = candy[candy.length - 1]
 for i in 0..candy.length - k do
-  # pri usporiadanom poli je vzdy maximum najvyssi index (pod)pola a minimum najmensi index (pod)pola
   temp_unfairness = candy[i + k - 1] - candy[i]
   unfairness = temp_unfairness if unfairness > temp_unfairness  
 end
