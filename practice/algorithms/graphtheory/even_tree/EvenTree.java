@@ -2,7 +2,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-// www.careercup.com/question?id=14587020} <br>
 public class EvenTree
 {
 	public static void main(String[] args)
