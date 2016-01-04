@@ -1,6 +1,3 @@
-# palindrom je vtedy:
-# - ak je dlzka parna, potom kazdy znak moze byt len parny pocet krat
-# - ak je dlzka neparna, potom moze mat len jeden taky znak, ktoreho pocet je neparny
 def can_be_palindrome(input)
   char_hash = Hash.new(0)
   input.each_char { |c| char_hash[c] += 1 }
