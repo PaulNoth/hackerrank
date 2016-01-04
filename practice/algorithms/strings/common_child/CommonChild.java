@@ -13,7 +13,6 @@ public class CommonChild
 		scanner.close();
 	}
 
-	// http://en.wikipedia.org/wiki/Longest_common_subsequence_problem
 	private static int lcsOptimized(String input1, String input2)
 	{
 		int start = 0;
