@@ -5,10 +5,11 @@ object JumpingOnTheCloudsRevisited extends App {
   val k = nk(1)
   val clouds = lines(1).split(" ").map(_.toInt)
   var energy = 100
-  var pos = k
+  var pos = k % n
+  energy -= (if(clouds(pos) == 1) 3 else 1)
   while(pos != 0) {
-    energy -= (if(clouds(pos) == 1) 3 else 1)
     pos = (pos + k) % n
+    energy -= (if(clouds(pos) == 1) 3 else 1)
   }
   println(energy)
 }
