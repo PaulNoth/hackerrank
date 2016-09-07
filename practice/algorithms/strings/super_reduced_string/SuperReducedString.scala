@@ -6,6 +6,6 @@ object SuperReducedString extends App {
   println(if(reduced.isEmpty) "Empty String" else reduced)
 
   def stringReduce(acc: String, c: Char): String = {
-    if(acc.charAt(acc.length - 1) == c) acc.substring(0, acc.length - 1) else acc + c
+    if(acc.length > 0 && acc.charAt(acc.length - 1) == c) acc.substring(0, acc.length - 1) else acc + c
   }
 }
