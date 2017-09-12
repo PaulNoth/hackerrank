@@ -1,7 +1,7 @@
 # Hackerrank
 Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various languages.
 
-*   [Project Euler+](#project euler+)
+*   [Project Euler+](#projecteuler+)
 *   [Practice](#algorithms)
     *  [Algorithms](#algorithms)
     *  [Data Structures](#data structures)
