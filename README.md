@@ -1,13 +1,13 @@
 # Hackerrank
 Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various languages.
 
-*   [Project Euler+](#projecteuler+)
+*   [Project Euler+](#project-euler)
 *   [Practice](#algorithms)
     *  [Algorithms](#algorithms)
-    *  [Data Structures](#data structures)
+    *  [Data Structures](#data-structures)
     *  [Mathematics](#mathematics)
     *  [Java](#java)
-    *  [Functional Programming](#functional programming)
+    *  [Functional Programming](#functional-programming)
     *  [Linux shell](#linux)
     *  [SQL](#sql)
     *  [Regex](#regex)
