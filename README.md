@@ -51,7 +51,7 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 *   [[Easy] Plus Minus (10 pts)](http://pidanic.com/blog/hackerrank-plus-minus)
 *   [[Easy] Time Conversion (15 pts)](http://pidanic.com/blog/hackerrank-time-conversion)
 *   [[Easy] Compare The Triples (10 pts)](http://pidanic.com/blog/hackerrank-compare-triplets/)
-*   [[Easy] Circular Array Rotaiion (20 pts)](http://pidanic.com/blog/hackerrank-circular-array-rotation/)
+*   [[Easy] Circular Array Rotation (20 pts)](http://pidanic.com/blog/hackerrank-circular-array-rotation/)
 
 #### Implementation
 
