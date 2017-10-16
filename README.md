@@ -52,10 +52,12 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 *   [[Easy] Time Conversion (15 pts)](http://pidanic.com/blog/hackerrank-time-conversion)
 *   [[Easy] Compare The Triples (10 pts)](http://pidanic.com/blog/hackerrank-compare-triplets/)
 *   [[Easy] Circular Array Rotation (20 pts)](http://pidanic.com/blog/hackerrank-circular-array-rotation/)
+*   [[Easy] Birthday Cake Candles (10 pts)](http://pidanic.com/en/blog/hackerrank-birthday-cake-candles/)
 
 #### Implementation
 
 *   [[Easy] Divisible Sum Pairs (10 pts)](http://pidanic.com/blog/hackerrank-divisible-sum-pairs/)
+*   [[Easy] Sequence Equation (20 pts)](http://pidanic.com/en/blog/hackerrank-sequence-equation/)
 *   [[Easy] Lisa's Workbook (30 pts)](http://pidanic.com/blog/hackerrank-lisas-workbook/)
 *   [[Easy] Library Fine (15 pts)](http://pidanic.com/blog/hackerrank-library-fine)
 *   [[Easy] Caesar Cipher (15 pts)](http://pidanic.com/blog/hackerrank-caesar-cipher)
@@ -92,6 +94,8 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 *   [[Easy] Grading Students (10 pts)](http://pidanic.com/blog/hackerrank-grading-students/)
 *   [[Easy] Between Two Sets (10 pts)](http://pidanic.com/blog/hackerrank-two-sets/)
 *   [[Easy] The Hurdle Race (15 pts)](http://pidanic.com/blog/hackerrank-hurdle-race/)
+*   [[Easy] Taum and B'day (25 pts)](http://pidanic.com/en/blog/hackerrank-taum-bday/)
+*   [[Easy] ACM ICPC Team (25 pts)](http://pidanic.com/en/blog/hackerrank-acm-icpc-team/)
 
 #### Strings
 
@@ -107,6 +111,7 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 *   [[Easy] Beautiful Binary String (20 pts)](http://pidanic.com/blog/hackerrank-beautiful-binary-string)
 *   [[Easy] Mars Exploration (15 pts)](http://pidanic.com/blog/hackerrank-mars-exploration)
 *   [[Easy] String Construction (25 pts)](http://pidanic.com/blog/hackerrank-string-construction)
+*   [[Easy] Weighted Uniform Strings (25 pts)](http://pidanic.com/en/blog/hackerrank-weighted-uniform-strings/)
 *   [[Difficult] Common Child (60 pts)](http://pidanic.com/blog/hackerrank-common-child)
 
 #### Sorting
@@ -131,6 +136,7 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 *   [[Medium] Flowers (35 pts)](http://pidanic.com/blog/hackerrank-flowers)
 *   [[Medium] Max Min (35 pts)](http://pidanic.com/blog/hackerrank-max-min)
 *   [[Easy] Two Arrays (40 pts)](http://pidanic.com/blog/hackerrank-two-arrays)
+*   [[Easy] Priyanka and Toys (30 pts)](http://pidanic.com/en/blog/hackerrank-priyanka-toys/)
 
 #### Dynamic Programming
 
@@ -173,6 +179,7 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 
 *   [[Expert] Building a List (40 pts)](http://pidanic.com/blog/hackerrank-building-a-list)
 *   [[Easy] Picking Cards (50 pts)](http://pidanic.com/blog/hackerrank-picking-cards)
+*   [[Medium] Consecutive Subsequences (50 pts)](http://pidanic.com/en/blog/hackerrank-consecutive-subsequences/)
 
 #### Probability
 
@@ -298,6 +305,7 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 *   [[Easy] Remove Duplicates (10 pts)](http://pidanic.com/blog/hackerrank-remove-duplicates)
 *   [[Easy] Rotate String (20 pts)](http://pidanic.com/blog/hackerrank-rotate-string)
 *   [[Easy] Jumping Bunnies (20 pts)](http://pidanic.com/blog/hackerrank-jumping-bunnies/)
+*   [[Easy] Missing Numbers (FP) (30 pts)](http://pidanic.com/en/blog/hackerrank-missing-numbers-fp/)
 
 ## Regex
 
