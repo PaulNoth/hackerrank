@@ -112,6 +112,7 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 *   [[Easy] Mars Exploration (15 pts)](http://pidanic.com/blog/hackerrank-mars-exploration)
 *   [[Easy] String Construction (25 pts)](http://pidanic.com/blog/hackerrank-string-construction)
 *   [[Easy] Weighted Uniform Strings (25 pts)](http://pidanic.com/en/blog/hackerrank-weighted-uniform-strings/)
+*   [[Medium] Sherlock and Anagrams (50 pts)](http://pidanic.com/en/blog/hackerrank-sherlock-anagrams/)
 *   [[Difficult] Common Child (60 pts)](http://pidanic.com/blog/hackerrank-common-child)
 
 #### Sorting
