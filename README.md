@@ -299,6 +299,7 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 *   [[Easy] String Reductions (10 pts)](http://pidanic.com/blog/hackerrank-string-reductions)
 *   [[Easy] Prefix Compression (10 pts)](http://pidanic.com/blog/hackerrank-prefix-compression)
 *   [[Easy] Sequence full of colors (10 pts)](http://pidanic.com/blog/hackerrank-sequence-full-colors/)
+*   [[Easy] String Compression (10 pts)](http://pidanic.com/en/blog/hackerrank-string-compression/)
 *   [[Medium] Super Digit (20 pts)](http://pidanic.com/blog/hackerrank-super-digit/)
 
 #### Ad Hoc
