@@ -96,6 +96,7 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 *   [[Easy] The Hurdle Race (15 pts)](http://pidanic.com/blog/hackerrank-hurdle-race/)
 *   [[Easy] Taum and B'day (25 pts)](http://pidanic.com/en/blog/hackerrank-taum-bday/)
 *   [[Easy] ACM ICPC Team (25 pts)](http://pidanic.com/en/blog/hackerrank-acm-icpc-team/)
+*   [[Easy] Drawing Book (10 pts)](http://pidanic.com/en/blog/hackerrank-drawing-book/)
 
 #### Strings
 
