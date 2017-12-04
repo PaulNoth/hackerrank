@@ -97,6 +97,14 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 *   [[Easy] Taum and B'day (25 pts)](http://pidanic.com/en/blog/hackerrank-taum-bday/)
 *   [[Easy] ACM ICPC Team (25 pts)](http://pidanic.com/en/blog/hackerrank-acm-icpc-team/)
 *   [[Easy] Drawing Book (10 pts)](http://pidanic.com/en/blog/hackerrank-drawing-book/)
+*   [[Easy] Day of the Programmer (15 pts)](http://pidanic.com/en/blog/hackerrank-day-programmer/)
+*   [[Easy] Electronics Shop (15 pts)](http://pidanic.com/en/blog/hackerrank-electronics-shop/)
+*   [[Easy] Migratory Birds (10 pts)](http://pidanic.com/en/blog/hackerrank-migratory-birds/)
+*   [[Easy] Picking Numbers (20 pts)](http://pidanic.com/en/blog/hackerrank-picking-numbers/)
+*   [[Easy] Birthday Chocolate (10 pts)](http://pidanic.com/en/blog/hackerrank-birthday-chocolate/)
+*   [[Easy] Breaking the Records (10 pts)](http://pidanic.com/en/blog/hackerrank-breaking-records/)
+*   [[Easy] Cats and a Mouse (15 pts)](http://pidanic.com/en/blog/hackerrank-cats-mouse/)
+*   [[Easy] Counting Valleys (15 pts)](http://pidanic.com/en/blog/hackerrank-counting-valleys/)
 
 #### Strings
 
@@ -139,6 +147,7 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 *   [[Medium] Max Min (35 pts)](http://pidanic.com/blog/hackerrank-max-min)
 *   [[Easy] Two Arrays (40 pts)](http://pidanic.com/blog/hackerrank-two-arrays)
 *   [[Easy] Priyanka and Toys (30 pts)](http://pidanic.com/en/blog/hackerrank-priyanka-toys/)
+*   [[Easy] Mark and Toys (35 pts)](http://pidanic.com/en/blog/hackerrank-mark-toys/)
 
 #### Dynamic Programming
 
