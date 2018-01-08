@@ -121,6 +121,9 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 *   [[Easy] Mars Exploration (15 pts)](http://pidanic.com/blog/hackerrank-mars-exploration)
 *   [[Easy] String Construction (25 pts)](http://pidanic.com/blog/hackerrank-string-construction)
 *   [[Easy] Weighted Uniform Strings (25 pts)](http://pidanic.com/en/blog/hackerrank-weighted-uniform-strings/)
+*   [[Easy] Two Characters (20 pts)](http://pidanic.com/en/blog/hackerrank-two-characters/ )
+*   [[Easy] Separate the Numbers (20 pts)](http://pidanic.com/en/blog/hackerrank-separate-numbers/)
+*   [[Easy] Making Anagrams (30 pts)](http://pidanic.com/en/blog/hackerrank-making-anagrams/)
 *   [[Medium] Sherlock and Anagrams (50 pts)](http://pidanic.com/en/blog/hackerrank-sherlock-anagrams/)
 *   [[Difficult] Common Child (60 pts)](http://pidanic.com/blog/hackerrank-common-child)
 
@@ -128,6 +131,8 @@ Solutions of [Hackerrank](https://www.hackerrank.com) challenges in various lang
 
 *   [[Easy] Intro to Tutorial Challenges (30 pts)](http://pidanic.com/blog/hackerrank-intro-to-tutorial-challenges)
 *   [[Easy] Insertion Sort - Part 1 (30 pts)](http://pidanic.com/blog/hackerrank-insertion-sort-part-1)
+*   [[Easy] Insertion Sort - Part 2 (30 pts)](http://pidanic.com/blog/hackerrank-insertion-sort-part-2)
+*   [[Easy] Counting Sort 1 (30 pts)](http://pidanic.com/en/blog/hackerrank-counting-sort-1/)
 *   [[Easy] Closest Numbers (35 pts)](http://pidanic.com/blog/hackerrank-closest-numbers)
 
 #### Search
